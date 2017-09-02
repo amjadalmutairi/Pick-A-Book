@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختر كتابك</string>
+    <string name="by">"المؤلف "</string>
+    <string name="no_books">"لايوجد كتب في  "</string>
+    <string name="no_connection">لايوجد اتصال بالانترنت !</string>
+    <string name="on">" في عام"</string>
+    <string name="page">" صفحة"</string>
+    <string name="pick_a_book">اختر كتابك</string>
+    <string name="search_for_books">"ابحث عن الكتب . . "</string>
+    <string name="topic">" موضوع."</string>
+    <string name="topic_error">يجب إدخال موضوع</string>
+</resources>

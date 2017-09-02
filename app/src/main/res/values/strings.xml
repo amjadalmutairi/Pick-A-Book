@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pick A Book</string>
+    <string name="search_for_books">Search for books . .</string>
+    <string name="pick_a_book">PICK A BOOK !</string>
+    <string name="no_connection">No Internet Connection :(</string>
+    <string name="no_books">No Books Found In\u0020</string>
+    <string name="topic">\u0020Topic.</string>
+    <string name="by">by\u0020</string>
+    <string name="on">\nOn\u0020</string>
+    <string name="page">\nPage</string>
+    <string name="topic_error">You must enter a topic</string>
+</resources>
